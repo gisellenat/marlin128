@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://gisellenat.github.io/marlin128/sitemap.xml
